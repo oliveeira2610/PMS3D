@@ -1,0 +1,43 @@
+# Lista de Tarefas: Sistema de Gerenciamento de Impressão 3D
+
+- [X] **Passo 1: Analisar Requisitos do Sistema**
+    - [X] Pesquisar desafios comuns na gestão de operações de impressão 3D.
+    - [X] Analisar softwares de gerenciamento de impressão 3D existentes (funcionalidades, público, preço).
+    - [X] Identificar métricas chave (KPIs) usadas na indústria de impressão 3D.
+    - [X] Pesquisar tendências e inovações em gerenciamento de impressão 3D.
+    - [X] Consolidar a análise de requisitos em um documento preliminar.
+- [X] **Passo 2: Pesquisar Melhores Tecnologias**
+    - [X] Pesquisar linguagens e frameworks populares no mercado para desenvolvimento web.
+    - [X] Pesquisar tecnologias para desenvolvimento de aplicativos desktop (Windows) e/ou multiplataforma.
+    - [X] Avaliar prós e contras de abordagens (Web vs. Desktop vs. Híbrido).
+    - [X] Selecionar a pilha tecnológica (linguagem, framework, banco de dados).
+- [X] **Passo 3: Definir Escopo Funcional e Diferenciais**
+    - [X] Detalhar funcionalidades essenciais (materiais, peças, impressoras, custos, métricas).
+    - [X] Brainstorm e definir funcionalidades inovadoras e diferenciais competitivos.
+    - [X] Priorizar funcionalidades para o protótipo inicial.
+    - [X] Documentar o escopo funcional detalhado.
+- [X] **Passo 4: Criar Estrutura de Documentação Inicial**
+    - [X] Definir a estrutura geral da documentação (visão geral, requisitos, arquitetura, guia do usuário, etc.).
+    - [X] Criar arquivos iniciais para a documentação.
+- [X] **Passo 5: Projetar Arquitetura e Modelagem de Dados**
+    - [X] Desenhar a arquitetura do sistema (componentes, interações).
+    - [X] Criar o modelo de dados (entidades, relacionamentos, atributos).
+    - [X] Documentar a arquitetura e o modelo de dados.
+- [X] **Passo 6: Desenvolver Protótipo Inicial**
+    - [X] Configurar o ambiente de desenvolvimento.
+    - [X] Implementar as funcionalidades chave priorizadas.
+    - [X] Desenvolver a interface do usuário básica.
+- [X] **Passo 7: Validar Protótipo e Ajustar**
+    - [X] Realizar testes funcionais no protótipo.
+    - [X] Coletar feedback (simulado ou, se possível, do usuário).
+    - [X] Refinar o protótipo com base nos testes e feedback.
+    - [X] Garantir conformidade com as melhores práticas.
+    - [X] Ajustar ALLOWED_HOSTS e retestar APIs.
+- [X] **Passo 8: Compilar Documentação Completa**
+    - [X] Escrever a documentação detalhada (requisitos, arquitetura, modelo de dados, API, guia do usuário).
+    - [X] Revisar e refinar a documentação para clareza e qualidade ("humana").
+- [ ] **Passo 9: Entregar Projeto Completo**
+    - [ ] Preparar o pacote final do projeto (código-fonte, executáveis/link de deploy, documentação).
+    - [ ] Enviar os resultados e deliverables ao usuário via mensagem.
+    - [ ] Entrar em modo de espera.
+
